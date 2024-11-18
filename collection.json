@@ -690,7 +690,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n  \"fullName\": \"Test Editado Test\",\r\n  \"mail\": \"{{$randomEmail}}\"\r\n}",
+							"raw": "{\r\n  \"fullName\": \"Test Editado @@@Test\",\r\n  \"mail\": \"{{Email}}\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
